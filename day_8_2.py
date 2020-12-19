@@ -34,4 +34,4 @@ def solution():
 
 print(solution())
 
-# 
+# 672
